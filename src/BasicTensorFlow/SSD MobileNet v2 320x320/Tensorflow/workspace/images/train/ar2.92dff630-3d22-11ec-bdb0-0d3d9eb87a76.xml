@@ -1,0 +1,26 @@
+<annotation>
+	<folder>ar2</folder>
+	<filename>ar2.92dff630-3d22-11ec-bdb0-0d3d9eb87a76.jpg</filename>
+	<path>/home/garcia/catkin_ws/src/ar_tracker_tensorflow/src/BasicTensorFlow/Tensorflow/collectedimages/ar2/ar2.92dff630-3d22-11ec-bdb0-0d3d9eb87a76.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>480</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>ar2</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>450</xmin>
+			<ymin>65</ymin>
+			<xmax>490</xmax>
+			<ymax>110</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>ar4</folder>
+	<filename>ar4.49fe8b72-3d25-11ec-bdb0-0d3d9eb87a76.jpg</filename>
+	<path>/home/garcia/catkin_ws/src/ar_tracker_tensorflow/src/BasicTensorFlow/Tensorflow/collectedimages/ar4/ar4.49fe8b72-3d25-11ec-bdb0-0d3d9eb87a76.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>480</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>ar4</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>406</xmin>
+			<ymin>82</ymin>
+			<xmax>495</xmax>
+			<ymax>171</ymax>
+		</bndbox>
+	</object>
+</annotation>
