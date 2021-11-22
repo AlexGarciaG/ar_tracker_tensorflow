@@ -27,3 +27,17 @@ This project is relevant, because even if there are technologies that can perfor
 	- [ROS Noetic](http://wiki.ros.org/noetic)
 - Computer for train the model
 	- For easier installation of TensorFlow-Gput Windows is required.
+### TensorFlow Installation
+#### Computer for train the model
+1. Clone the repository:
+```
+git clone https://github.com/AlexGarciaG/ar_tracker_tensorflow.git
+```
+2. Use the jupyther notebook in *src\BasicTensorFlow\Instalation\2. Install tensorflow.ipynb*.  
+**Note: For this step is recommendable to follow the tutorial used for this project [Tensorflow Object Detection in 5 Hours with Python | Full Course with 3 Projects](https://www.youtube.com/watch?v=yqkISICHH-U)**
+
+## Project status
+- [x] #739
+- [ ] https://github.com/octo-org/octo-repo/issues/740
+- [ ] Add delight to the experience when all tasks are complete :tada:
+
